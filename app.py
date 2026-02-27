@@ -1168,7 +1168,7 @@ class ResumeApp:
                      alt="Het Patel"
                      class="profile-image"
                      onerror="this.onerror=null; this.src='https://avatars.githubusercontent.com/Hunterdii';">
-                <h2 class="profile-name">Het Patel (Hunterdii)</h2>
+                <h2 class="profile-name">Akash (Akash77)</h2>
                 <p class="profile-title">Full Stack Developer & AI/ML Enthusiast</p>
                 <div class="social-links">
                     <a href="https://github.com/MeAkash77" class="social-link" target="_blank">
