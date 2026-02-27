@@ -42,7 +42,7 @@
 </table>
 
   <h4>
-    <a href="https://resumind.streamlit.app/">View Demo</a>
+    <a href="https://smart-ai-resume-analyzerr.streamlit.app">View Demo</a>
     <span> · </span>
     <a href="#-setup-in-minutes">Set-Up (Installation)</a>
     <span> · </span>
@@ -94,7 +94,7 @@
 Get real-time feedback, boost your resume's impact, and maximize your chances of getting shortlisted—all with a sleek and intuitive interface.  
 
 ## <img src="https://github.com/user-attachments/assets/e5ac1371-6ac4-48b6-b95c-5ef9afaf1353" width="30"> **Live Demo**  
-👨‍💻 Try it Now: [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://resumind.streamlit.app/)  
+👨‍💻 Try it Now: [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smart-ai-resume-analyzerr.streamlit.app/)  
 
 
 ## <img src="https://github.com/user-attachments/assets/0cefad05-58a9-4aa0-a070-f75a0c9b0353" height="32px">  Tech Stack 
@@ -548,11 +548,11 @@ Join the mission! Here's how:
 <tr>  
 <td align="center"><b>  
    
-   [🔗 LinkedIn Job Scraper (Search Results)](https://resumind.streamlit.app/)
+   [🔗 LinkedIn Job Scraper (Search Results)]([https://resumind.streamlit.app/](https://smart-ai-resume-analyzerr.streamlit.app/))
    </b></td>  
 <td align="center"><b>  
    
-   [🏢 LinkedIn Scraper (Job Listings UI)](https://resumind.streamlit.app/)
+   [🏢 LinkedIn Scraper (Job Listings UI)](https://smart-ai-resume-analyzerr.streamlit.app/)
    </b></td>  
 </tr>  
 
