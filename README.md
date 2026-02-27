@@ -50,7 +50,7 @@
     <span> · </span>
     <a href="#-setup-in-minutes">Set-Up (Installation)</a>
     <span> · </span>
-    <a href="mailto:het8185@gmail.com?subject=I%20Want%20The%20Project%20Report%20of%20Smart%20AI-RESUME-ANALYZER%20(2024%20 %2025)&body=Here%20Are%20My%20Details%20%F0%9F%98%89%0D%0A%0D%0AOrganization%2FCollege%20Name%3A%20%0D%0A%0D%0AFull%20Name%3A%20%0D%0A%0D%0AGitHub%20Profile%20%3A%20%0D%0A%0D%0AFrom%20where%20did%20you%20get%20to%20know%20about%20this%20project%3A%0D%0A%0D%0APurpose%20of%20asking%20project%20report%20(describe)%3A%0D%0A%0D%0A%0D%0AIf%20the%20above%20information%20satisfy%20your%20identity%20you%20will%20get%20the%20report%20to%20your%20email.">Project Report</a>
+    <a href="mailto:iakshu845@gmail.com?subject=I%20Want%20The%20Project%20Report%20of%20Smart%20AI-RESUME-ANALYZER%20(2024%20 %2025)&body=Here%20Are%20My%20Details%20%F0%9F%98%89%0D%0A%0D%0AOrganization%2FCollege%20Name%3A%20%0D%0A%0D%0AFull%20Name%3A%20%0D%0A%0D%0AGitHub%20Profile%20%3A%20%0D%0A%0D%0AFrom%20where%20did%20you%20get%20to%20know%20about%20this%20project%3A%0D%0A%0D%0APurpose%20of%20asking%20project%20report%20(describe)%3A%0D%0A%0D%0A%0D%0AIf%20the%20above%20information%20satisfy%20your%20identity%20you%20will%20get%20the%20report%20to%20your%20email.">Project Report</a>
   </h4>
   <p>
     <small align="justify">
@@ -59,8 +59,6 @@
      </small>
   </p>
   <small align="justify"><img src="https://github.com/user-attachments/assets/76906dbc-343d-4267-ace5-048d428fff42" width="20px"> A Project Submitted for the partial fulfilment of the degree BCA at 
-    <a href="https://paruluniversity.ac.in/">Parul University</a> during academic year 2024-25
-  </small>
 </div><br/><br/>
 </div>  
 
