@@ -490,7 +490,7 @@ class ResumeApp:
             <p style='text-align: center;'>
                 Powered by <b>Streamlit</b> and <b>Google Gemini AI</b> | Developed by 
                 <a href="https://www.linkedin.com/in/me-akash77/" target="_blank" style='text-decoration: none; color: #FFFFFF'>
-                    <b>Het Patel (Hunterdii)</b>
+                    <b>Akash</b>
                 </a>
             </p>
             <p style='text-align: center; font-size: 12px; color: #888888;'>
