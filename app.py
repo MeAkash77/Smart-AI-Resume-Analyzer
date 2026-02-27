@@ -1,6 +1,9 @@
 ﻿"""
 Smart Resume AI - Main Application
 """
+from config.database import init_database
+
+init_database()
 import time
 from PIL import Image
 from jobs.job_search import render_job_search
