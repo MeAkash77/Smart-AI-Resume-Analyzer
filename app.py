@@ -104,6 +104,7 @@ class ResumeApp:
 
         # Initialize database
         init_database()
+        ensure_default_admin()
 
         # Load external CSS
         with open('style/style.css') as f:
