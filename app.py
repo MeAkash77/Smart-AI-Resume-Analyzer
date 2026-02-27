@@ -22,7 +22,7 @@ import requests
 from dashboard.dashboard import DashboardManager
 from config.courses import COURSES_BY_CATEGORY, RESUME_VIDEOS, INTERVIEW_VIDEOS, get_courses_for_role, get_category_for_role
 from config.job_roles import JOB_ROLES
-from config.database import (
+from database import (
     get_database_connection, save_resume_data, save_analysis_data,
     init_database, verify_admin, log_admin_action, save_ai_analysis_data,
     get_ai_analysis_stats, reset_ai_analysis_stats, get_detailed_ai_analysis_stats, ensure_default_admin
