@@ -25,7 +25,7 @@ from config.job_roles import JOB_ROLES
 from config.database import (
     get_database_connection, save_resume_data, save_analysis_data,
     init_database, verify_admin, log_admin_action, save_ai_analysis_data,
-    get_ai_analysis_stats, reset_ai_analysis_stats, get_detailed_ai_analysis_stats
+    get_ai_analysis_stats, reset_ai_analysis_stats, get_detailed_ai_analysis_stats, ensure_default_admin
 )
 from utils.ai_resume_analyzer import AIResumeAnalyzer
 from utils.resume_builder import ResumeBuilder
