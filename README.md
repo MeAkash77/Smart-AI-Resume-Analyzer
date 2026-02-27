@@ -58,7 +58,6 @@
       <a href="https://www.linkedin.com/in/het-patel-8b110525a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Het Patel</a>
      </small>
   </p>
-  <small align="justify"><img src="https://github.com/user-attachments/assets/76906dbc-343d-4267-ace5-048d428fff42" width="20px"> A Project Submitted for the partial fulfilment of the degree BCA at 
 </div><br/><br/>
 </div>  
 
